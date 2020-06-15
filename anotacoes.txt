@@ -1,0 +1,15 @@
+video em 26:43
+
+Criado as paginas baseados na estrutura para o novo site que vai usar tanto o laravel como o
+Wordpress (parte comercial e os tutoriais).
+
+Feito animacao usando rxdart e streambuild (simplesmente fantastico o resultado)
+-> assistir o video na integra quando terminar todo o app para documentar essa parte !!!
+
+-> A classe MenuItem é um Wight para chamar menus fantastica, e não precisa ser stfull pra usar nesse caso de menus
+
+-> usar esse projeto como base para o do site filgs e projeto colaboradores (sensacional).
+
+
+
+
